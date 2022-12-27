@@ -1,0 +1,24 @@
+*** Read it First ***
+
+
+1. install requirements.txt file for recommended python modules.
+
+2. Then download dataset from 
+i. https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
+or,
+ii. https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+
+(for this project i use ii. beacause of downloading issue)
+**paste the dataset in same file where app.py is present
+
+3. run app.py file
+
+4. 2 .pkl file will create one is embeddings.pkl and another is filenames.pkl
+
+5. then in test.py file upload any image which you want to recommended(also how many recommended number you can change) 
+
+6. check your output
+
+7. Enjoy and use it on your Website
+
+
