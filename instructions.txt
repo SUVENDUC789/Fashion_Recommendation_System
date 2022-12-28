@@ -7,6 +7,8 @@
 i. https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 or,
 ii. https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+or,
+any type of images which you want but should be in .jpg format
 
 (for this project i use ii. beacause of downloading issue)
 **paste the dataset in same file where app.py is present
